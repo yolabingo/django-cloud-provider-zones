@@ -1,18 +1,38 @@
 [
     {
+        "original_region_name": "us-east-1",
+        "original_az_name": "us-east-1e",
+        "az": "e"
+    },
+    {
+        "original_region_name": "ap-southeast-2",
+        "original_az_name": "ap-southeast-2c",
+        "az": "c"
+    },
+    {
         "original_region_name": "ap-south-1",
         "original_az_name": "ap-south-1c",
         "az": "c"
     },
     {
-        "original_region_name": "ca-central-1",
-        "original_az_name": "ca-central-1b",
-        "az": "b"
+        "original_region_name": "ap-northeast-2",
+        "original_az_name": "ap-northeast-2a",
+        "az": "a"
     },
     {
         "original_region_name": "eu-north-1",
-        "original_az_name": "eu-north-1b",
-        "az": "b"
+        "original_az_name": "eu-north-1c",
+        "az": "c"
+    },
+    {
+        "original_region_name": "ap-northeast-2",
+        "original_az_name": "ap-northeast-2c",
+        "az": "c"
+    },
+    {
+        "original_region_name": "ap-northeast-1",
+        "original_az_name": "ap-northeast-1a",
+        "az": "a"
     },
     {
         "original_region_name": "ap-southeast-1",
@@ -20,39 +40,34 @@
         "az": "a"
     },
     {
-        "original_region_name": "ap-southeast-1",
-        "original_az_name": "ap-southeast-1c",
+        "original_region_name": "sa-east-1",
+        "original_az_name": "sa-east-1c",
         "az": "c"
     },
     {
         "original_region_name": "eu-central-1",
-        "original_az_name": "eu-central-1c",
+        "original_az_name": "eu-central-1a",
+        "az": "a"
+    },
+    {
+        "original_region_name": "us-east-1",
+        "original_az_name": "us-east-1b",
+        "az": "b"
+    },
+    {
+        "original_region_name": "eu-west-3",
+        "original_az_name": "eu-west-3a",
+        "az": "a"
+    },
+    {
+        "original_region_name": "eu-west-3",
+        "original_az_name": "eu-west-3c",
         "az": "c"
     },
     {
         "original_region_name": "ap-northeast-2",
-        "original_az_name": "ap-northeast-2b",
-        "az": "b"
-    },
-    {
-        "original_region_name": "ap-southeast-2",
-        "original_az_name": "ap-southeast-2b",
-        "az": "b"
-    },
-    {
-        "original_region_name": "eu-west-2",
-        "original_az_name": "eu-west-2a",
-        "az": "a"
-    },
-    {
-        "original_region_name": "us-west-2",
-        "original_az_name": "us-west-2a",
-        "az": "a"
-    },
-    {
-        "original_region_name": "eu-north-1",
-        "original_az_name": "eu-north-1a",
-        "az": "a"
+        "original_az_name": "ap-northeast-2d",
+        "az": "d"
     },
     {
         "original_region_name": "ap-southeast-1",
@@ -65,18 +80,18 @@
         "az": "f"
     },
     {
-        "original_region_name": "us-east-1",
-        "original_az_name": "us-east-1d",
-        "az": "d"
-    },
-    {
-        "original_region_name": "us-west-1",
-        "original_az_name": "us-west-1a",
+        "original_region_name": "ap-southeast-2",
+        "original_az_name": "ap-southeast-2a",
         "az": "a"
     },
     {
         "original_region_name": "us-east-2",
-        "original_az_name": "us-east-2a",
+        "original_az_name": "us-east-2b",
+        "az": "b"
+    },
+    {
+        "original_region_name": "eu-north-1",
+        "original_az_name": "eu-north-1a",
         "az": "a"
     },
     {
@@ -85,144 +100,14 @@
         "az": "b"
     },
     {
-        "original_region_name": "sa-east-1",
-        "original_az_name": "sa-east-1a",
+        "original_region_name": "us-east-2",
+        "original_az_name": "us-east-2a",
         "az": "a"
-    },
-    {
-        "original_region_name": "ap-northeast-1",
-        "original_az_name": "ap-northeast-1d",
-        "az": "d"
-    },
-    {
-        "original_region_name": "ca-central-1",
-        "original_az_name": "ca-central-1d",
-        "az": "d"
-    },
-    {
-        "original_region_name": "eu-central-1",
-        "original_az_name": "eu-central-1a",
-        "az": "a"
-    },
-    {
-        "original_region_name": "ap-south-1",
-        "original_az_name": "ap-south-1a",
-        "az": "a"
-    },
-    {
-        "original_region_name": "ap-northeast-1",
-        "original_az_name": "ap-northeast-1a",
-        "az": "a"
-    },
-    {
-        "original_region_name": "eu-west-2",
-        "original_az_name": "eu-west-2c",
-        "az": "c"
-    },
-    {
-        "original_region_name": "eu-west-2",
-        "original_az_name": "eu-west-2b",
-        "az": "b"
     },
     {
         "original_region_name": "eu-west-1",
-        "original_az_name": "eu-west-1a",
-        "az": "a"
-    },
-    {
-        "original_region_name": "ap-northeast-2",
-        "original_az_name": "ap-northeast-2d",
-        "az": "d"
-    },
-    {
-        "original_region_name": "ap-southeast-2",
-        "original_az_name": "ap-southeast-2a",
-        "az": "a"
-    },
-    {
-        "original_region_name": "ap-southeast-2",
-        "original_az_name": "ap-southeast-2c",
-        "az": "c"
-    },
-    {
-        "original_region_name": "us-east-1",
-        "original_az_name": "us-east-1e",
-        "az": "e"
-    },
-    {
-        "original_region_name": "ca-central-1",
-        "original_az_name": "ca-central-1a",
-        "az": "a"
-    },
-    {
-        "original_region_name": "ap-northeast-2",
-        "original_az_name": "ap-northeast-2c",
-        "az": "c"
-    },
-    {
-        "original_region_name": "eu-west-3",
-        "original_az_name": "eu-west-3c",
-        "az": "c"
-    },
-    {
-        "original_region_name": "us-west-2",
-        "original_az_name": "us-west-2b",
+        "original_az_name": "eu-west-1b",
         "az": "b"
-    },
-    {
-        "original_region_name": "ap-south-1",
-        "original_az_name": "ap-south-1b",
-        "az": "b"
-    },
-    {
-        "original_region_name": "ap-northeast-2",
-        "original_az_name": "ap-northeast-2a",
-        "az": "a"
-    },
-    {
-        "original_region_name": "us-east-1",
-        "original_az_name": "us-east-1b",
-        "az": "b"
-    },
-    {
-        "original_region_name": "us-east-1",
-        "original_az_name": "us-east-1c",
-        "az": "c"
-    },
-    {
-        "original_region_name": "eu-central-1",
-        "original_az_name": "eu-central-1b",
-        "az": "b"
-    },
-    {
-        "original_region_name": "ap-northeast-1",
-        "original_az_name": "ap-northeast-1c",
-        "az": "c"
-    },
-    {
-        "original_region_name": "us-west-2",
-        "original_az_name": "us-west-2d",
-        "az": "d"
-    },
-    {
-        "original_region_name": "us-west-2",
-        "original_az_name": "us-west-2c",
-        "az": "c"
-    },
-    {
-        "original_region_name": "ap-northeast-3",
-        "original_az_name": "ap-northeast-3c",
-        "az": "c"
-    },
-    {
-        "original_region_name": "us-west-1",
-        "original_az_name": "us-west-1b",
-        "az": "b"
-    },
-    {
-        "original_region_name": "eu-west-3",
-        "original_az_name": "eu-west-3a",
-        "az": "a"
     },
     {
         "original_region_name": "eu-west-3",
@@ -230,13 +115,28 @@
         "az": "b"
     },
     {
-        "original_region_name": "us-east-2",
-        "original_az_name": "us-east-2c",
-        "az": "c"
+        "original_region_name": "ap-northeast-1",
+        "original_az_name": "ap-northeast-1d",
+        "az": "d"
     },
     {
-        "original_region_name": "ap-northeast-3",
-        "original_az_name": "ap-northeast-3a",
+        "original_region_name": "sa-east-1",
+        "original_az_name": "sa-east-1a",
+        "az": "a"
+    },
+    {
+        "original_region_name": "ap-south-1",
+        "original_az_name": "ap-south-1b",
+        "az": "b"
+    },
+    {
+        "original_region_name": "us-west-2",
+        "original_az_name": "us-west-2d",
+        "az": "d"
+    },
+    {
+        "original_region_name": "eu-west-2",
+        "original_az_name": "eu-west-2a",
         "az": "a"
     },
     {
@@ -245,13 +145,88 @@
         "az": "c"
     },
     {
-        "original_region_name": "sa-east-1",
-        "original_az_name": "sa-east-1c",
+        "original_region_name": "us-west-2",
+        "original_az_name": "us-west-2b",
+        "az": "b"
+    },
+    {
+        "original_region_name": "eu-west-2",
+        "original_az_name": "eu-west-2c",
         "az": "c"
     },
     {
+        "original_region_name": "ca-central-1",
+        "original_az_name": "ca-central-1b",
+        "az": "b"
+    },
+    {
+        "original_region_name": "ap-northeast-3",
+        "original_az_name": "ap-northeast-3a",
+        "az": "a"
+    },
+    {
+        "original_region_name": "eu-central-1",
+        "original_az_name": "eu-central-1c",
+        "az": "c"
+    },
+    {
+        "original_region_name": "us-east-1",
+        "original_az_name": "us-east-1c",
+        "az": "c"
+    },
+    {
+        "original_region_name": "us-east-1",
+        "original_az_name": "us-east-1d",
+        "az": "d"
+    },
+    {
+        "original_region_name": "ca-central-1",
+        "original_az_name": "ca-central-1a",
+        "az": "a"
+    },
+    {
+        "original_region_name": "ap-southeast-2",
+        "original_az_name": "ap-southeast-2b",
+        "az": "b"
+    },
+    {
+        "original_region_name": "eu-central-1",
+        "original_az_name": "eu-central-1b",
+        "az": "b"
+    },
+    {
+        "original_region_name": "us-west-1",
+        "original_az_name": "us-west-1a",
+        "az": "a"
+    },
+    {
+        "original_region_name": "ap-southeast-1",
+        "original_az_name": "ap-southeast-1c",
+        "az": "c"
+    },
+    {
+        "original_region_name": "ap-northeast-1",
+        "original_az_name": "ap-northeast-1c",
+        "az": "c"
+    },
+    {
+        "original_region_name": "ap-northeast-2",
+        "original_az_name": "ap-northeast-2b",
+        "az": "b"
+    },
+    {
         "original_region_name": "us-east-2",
-        "original_az_name": "us-east-2b",
+        "original_az_name": "us-east-2c",
+        "az": "c"
+    },
+    {
+        "original_region_name": "us-west-2",
+        "original_az_name": "us-west-2c",
+        "az": "c"
+    },
+    {
+        "original_region_name": "eu-west-2",
+        "original_az_name": "eu-west-2b",
         "az": "b"
     },
     {
@@ -260,18 +235,43 @@
         "az": "b"
     },
     {
-        "original_region_name": "eu-north-1",
-        "original_az_name": "eu-north-1c",
-        "az": "c"
+        "original_region_name": "us-west-1",
+        "original_az_name": "us-west-1b",
+        "az": "b"
     },
     {
-        "original_region_name": "eu-west-1",
-        "original_az_name": "eu-west-1b",
-        "az": "b"
+        "original_region_name": "us-west-2",
+        "original_az_name": "us-west-2a",
+        "az": "a"
+    },
+    {
+        "original_region_name": "ap-south-1",
+        "original_az_name": "ap-south-1a",
+        "az": "a"
+    },
+    {
+        "original_region_name": "ap-northeast-3",
+        "original_az_name": "ap-northeast-3c",
+        "az": "c"
     },
     {
         "original_region_name": "us-east-1",
         "original_az_name": "us-east-1a",
+        "az": "a"
+    },
+    {
+        "original_region_name": "ca-central-1",
+        "original_az_name": "ca-central-1d",
+        "az": "d"
+    },
+    {
+        "original_region_name": "eu-north-1",
+        "original_az_name": "eu-north-1b",
+        "az": "b"
+    },
+    {
+        "original_region_name": "eu-west-1",
+        "original_az_name": "eu-west-1a",
         "az": "a"
     }
 ]

@@ -1,607 +1,1052 @@
 [
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-south-1",
         "ZoneName": "ap-south-1a",
         "ZoneId": "aps1-az1",
-        "GroupName": "ap-south-1",
+        "GroupName": "ap-south-1-zg-1",
         "NetworkBorderGroup": "ap-south-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Mumbai) 1",
+        "Geography": [
+            {
+                "Name": "India"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-south-1",
         "ZoneName": "ap-south-1b",
         "ZoneId": "aps1-az3",
-        "GroupName": "ap-south-1",
+        "GroupName": "ap-south-1-zg-1",
         "NetworkBorderGroup": "ap-south-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Mumbai) 1",
+        "Geography": [
+            {
+                "Name": "India"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-south-1",
         "ZoneName": "ap-south-1c",
         "ZoneId": "aps1-az2",
-        "GroupName": "ap-south-1",
+        "GroupName": "ap-south-1-zg-1",
         "NetworkBorderGroup": "ap-south-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Mumbai) 1",
+        "Geography": [
+            {
+                "Name": "India"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-north-1",
         "ZoneName": "eu-north-1a",
         "ZoneId": "eun1-az1",
-        "GroupName": "eu-north-1",
+        "GroupName": "eu-north-1-zg-1",
         "NetworkBorderGroup": "eu-north-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Stockholm) 1",
+        "Geography": [
+            {
+                "Name": "Sweden"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-north-1",
         "ZoneName": "eu-north-1b",
         "ZoneId": "eun1-az2",
-        "GroupName": "eu-north-1",
+        "GroupName": "eu-north-1-zg-1",
         "NetworkBorderGroup": "eu-north-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Stockholm) 1",
+        "Geography": [
+            {
+                "Name": "Sweden"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-north-1",
         "ZoneName": "eu-north-1c",
         "ZoneId": "eun1-az3",
-        "GroupName": "eu-north-1",
+        "GroupName": "eu-north-1-zg-1",
         "NetworkBorderGroup": "eu-north-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Stockholm) 1",
+        "Geography": [
+            {
+                "Name": "Sweden"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-west-3",
         "ZoneName": "eu-west-3a",
         "ZoneId": "euw3-az1",
-        "GroupName": "eu-west-3",
+        "GroupName": "eu-west-3-zg-1",
         "NetworkBorderGroup": "eu-west-3",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Paris) 1",
+        "Geography": [
+            {
+                "Name": "France"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-west-3",
         "ZoneName": "eu-west-3b",
         "ZoneId": "euw3-az2",
-        "GroupName": "eu-west-3",
+        "GroupName": "eu-west-3-zg-1",
         "NetworkBorderGroup": "eu-west-3",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Paris) 1",
+        "Geography": [
+            {
+                "Name": "France"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-west-3",
         "ZoneName": "eu-west-3c",
         "ZoneId": "euw3-az3",
-        "GroupName": "eu-west-3",
+        "GroupName": "eu-west-3-zg-1",
         "NetworkBorderGroup": "eu-west-3",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Paris) 1",
+        "Geography": [
+            {
+                "Name": "France"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-west-2",
         "ZoneName": "eu-west-2a",
         "ZoneId": "euw2-az2",
-        "GroupName": "eu-west-2",
+        "GroupName": "eu-west-2-zg-1",
         "NetworkBorderGroup": "eu-west-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (London) 1",
+        "Geography": [
+            {
+                "Name": "United Kingdom"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-west-2",
         "ZoneName": "eu-west-2b",
         "ZoneId": "euw2-az3",
-        "GroupName": "eu-west-2",
+        "GroupName": "eu-west-2-zg-1",
         "NetworkBorderGroup": "eu-west-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (London) 1",
+        "Geography": [
+            {
+                "Name": "United Kingdom"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-west-2",
         "ZoneName": "eu-west-2c",
         "ZoneId": "euw2-az1",
-        "GroupName": "eu-west-2",
+        "GroupName": "eu-west-2-zg-1",
         "NetworkBorderGroup": "eu-west-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (London) 1",
+        "Geography": [
+            {
+                "Name": "United Kingdom"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-west-1",
         "ZoneName": "eu-west-1a",
         "ZoneId": "euw1-az2",
-        "GroupName": "eu-west-1",
+        "GroupName": "eu-west-1-zg-1",
         "NetworkBorderGroup": "eu-west-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Ireland) 1",
+        "Geography": [
+            {
+                "Name": "Ireland"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-west-1",
         "ZoneName": "eu-west-1b",
         "ZoneId": "euw1-az3",
-        "GroupName": "eu-west-1",
+        "GroupName": "eu-west-1-zg-1",
         "NetworkBorderGroup": "eu-west-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Ireland) 1",
+        "Geography": [
+            {
+                "Name": "Ireland"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-west-1",
         "ZoneName": "eu-west-1c",
         "ZoneId": "euw1-az1",
-        "GroupName": "eu-west-1",
+        "GroupName": "eu-west-1-zg-1",
         "NetworkBorderGroup": "eu-west-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Ireland) 1",
+        "Geography": [
+            {
+                "Name": "Ireland"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-northeast-3",
         "ZoneName": "ap-northeast-3a",
         "ZoneId": "apne3-az3",
-        "GroupName": "ap-northeast-3",
+        "GroupName": "ap-northeast-3-zg-1",
         "NetworkBorderGroup": "ap-northeast-3",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Osaka) 1",
+        "Geography": [
+            {
+                "Name": "Japan"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-northeast-3",
         "ZoneName": "ap-northeast-3b",
         "ZoneId": "apne3-az1",
-        "GroupName": "ap-northeast-3",
+        "GroupName": "ap-northeast-3-zg-1",
         "NetworkBorderGroup": "ap-northeast-3",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Osaka) 1",
+        "Geography": [
+            {
+                "Name": "Japan"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-northeast-3",
         "ZoneName": "ap-northeast-3c",
         "ZoneId": "apne3-az2",
-        "GroupName": "ap-northeast-3",
+        "GroupName": "ap-northeast-3-zg-1",
         "NetworkBorderGroup": "ap-northeast-3",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Osaka) 1",
+        "Geography": [
+            {
+                "Name": "Japan"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-northeast-2",
         "ZoneName": "ap-northeast-2a",
         "ZoneId": "apne2-az1",
-        "GroupName": "ap-northeast-2",
+        "GroupName": "ap-northeast-2-zg-1",
         "NetworkBorderGroup": "ap-northeast-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Seoul) 1",
+        "Geography": [
+            {
+                "Name": "South Korea"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-northeast-2",
         "ZoneName": "ap-northeast-2b",
         "ZoneId": "apne2-az2",
-        "GroupName": "ap-northeast-2",
+        "GroupName": "ap-northeast-2-zg-1",
         "NetworkBorderGroup": "ap-northeast-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Seoul) 1",
+        "Geography": [
+            {
+                "Name": "South Korea"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-northeast-2",
         "ZoneName": "ap-northeast-2c",
         "ZoneId": "apne2-az3",
-        "GroupName": "ap-northeast-2",
+        "GroupName": "ap-northeast-2-zg-1",
         "NetworkBorderGroup": "ap-northeast-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Seoul) 1",
+        "Geography": [
+            {
+                "Name": "South Korea"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-northeast-2",
         "ZoneName": "ap-northeast-2d",
         "ZoneId": "apne2-az4",
-        "GroupName": "ap-northeast-2",
+        "GroupName": "ap-northeast-2-zg-1",
         "NetworkBorderGroup": "ap-northeast-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Seoul) 1",
+        "Geography": [
+            {
+                "Name": "South Korea"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-northeast-1",
         "ZoneName": "ap-northeast-1a",
         "ZoneId": "apne1-az4",
-        "GroupName": "ap-northeast-1",
+        "GroupName": "ap-northeast-1-zg-1",
         "NetworkBorderGroup": "ap-northeast-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Tokyo) 1",
+        "Geography": [
+            {
+                "Name": "Japan"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-northeast-1",
         "ZoneName": "ap-northeast-1c",
         "ZoneId": "apne1-az1",
-        "GroupName": "ap-northeast-1",
+        "GroupName": "ap-northeast-1-zg-1",
         "NetworkBorderGroup": "ap-northeast-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Tokyo) 1",
+        "Geography": [
+            {
+                "Name": "Japan"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-northeast-1",
         "ZoneName": "ap-northeast-1d",
         "ZoneId": "apne1-az2",
-        "GroupName": "ap-northeast-1",
+        "GroupName": "ap-northeast-1-zg-1",
         "NetworkBorderGroup": "ap-northeast-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Tokyo) 1",
+        "Geography": [
+            {
+                "Name": "Japan"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ca-central-1",
         "ZoneName": "ca-central-1a",
         "ZoneId": "cac1-az1",
-        "GroupName": "ca-central-1",
+        "GroupName": "ca-central-1-zg-1",
         "NetworkBorderGroup": "ca-central-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Canada (Central) 1",
+        "Geography": [
+            {
+                "Name": "Canada"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ca-central-1",
         "ZoneName": "ca-central-1b",
         "ZoneId": "cac1-az2",
-        "GroupName": "ca-central-1",
+        "GroupName": "ca-central-1-zg-1",
         "NetworkBorderGroup": "ca-central-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Canada (Central) 1",
+        "Geography": [
+            {
+                "Name": "Canada"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ca-central-1",
         "ZoneName": "ca-central-1d",
         "ZoneId": "cac1-az4",
-        "GroupName": "ca-central-1",
+        "GroupName": "ca-central-1-zg-1",
         "NetworkBorderGroup": "ca-central-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Canada (Central) 1",
+        "Geography": [
+            {
+                "Name": "Canada"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "sa-east-1",
         "ZoneName": "sa-east-1a",
         "ZoneId": "sae1-az1",
-        "GroupName": "sa-east-1",
+        "GroupName": "sa-east-1-zg-1",
         "NetworkBorderGroup": "sa-east-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "South America (Sao Paulo) 1",
+        "Geography": [
+            {
+                "Name": "Brazil"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "sa-east-1",
         "ZoneName": "sa-east-1b",
         "ZoneId": "sae1-az2",
-        "GroupName": "sa-east-1",
+        "GroupName": "sa-east-1-zg-1",
         "NetworkBorderGroup": "sa-east-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "South America (Sao Paulo) 1",
+        "Geography": [
+            {
+                "Name": "Brazil"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "sa-east-1",
         "ZoneName": "sa-east-1c",
         "ZoneId": "sae1-az3",
-        "GroupName": "sa-east-1",
+        "GroupName": "sa-east-1-zg-1",
         "NetworkBorderGroup": "sa-east-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "South America (Sao Paulo) 1",
+        "Geography": [
+            {
+                "Name": "Brazil"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-southeast-1",
         "ZoneName": "ap-southeast-1a",
         "ZoneId": "apse1-az2",
-        "GroupName": "ap-southeast-1",
+        "GroupName": "ap-southeast-1-zg-1",
         "NetworkBorderGroup": "ap-southeast-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Singapore) 1",
+        "Geography": [
+            {
+                "Name": "Singapore"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-southeast-1",
         "ZoneName": "ap-southeast-1b",
         "ZoneId": "apse1-az1",
-        "GroupName": "ap-southeast-1",
+        "GroupName": "ap-southeast-1-zg-1",
         "NetworkBorderGroup": "ap-southeast-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Singapore) 1",
+        "Geography": [
+            {
+                "Name": "Singapore"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-southeast-1",
         "ZoneName": "ap-southeast-1c",
         "ZoneId": "apse1-az3",
-        "GroupName": "ap-southeast-1",
+        "GroupName": "ap-southeast-1-zg-1",
         "NetworkBorderGroup": "ap-southeast-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Singapore) 1",
+        "Geography": [
+            {
+                "Name": "Singapore"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-southeast-2",
         "ZoneName": "ap-southeast-2a",
         "ZoneId": "apse2-az1",
-        "GroupName": "ap-southeast-2",
+        "GroupName": "ap-southeast-2-zg-1",
         "NetworkBorderGroup": "ap-southeast-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Sydney) 1",
+        "Geography": [
+            {
+                "Name": "Australia"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-southeast-2",
         "ZoneName": "ap-southeast-2b",
         "ZoneId": "apse2-az3",
-        "GroupName": "ap-southeast-2",
+        "GroupName": "ap-southeast-2-zg-1",
         "NetworkBorderGroup": "ap-southeast-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Sydney) 1",
+        "Geography": [
+            {
+                "Name": "Australia"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "ap-southeast-2",
         "ZoneName": "ap-southeast-2c",
         "ZoneId": "apse2-az2",
-        "GroupName": "ap-southeast-2",
+        "GroupName": "ap-southeast-2-zg-1",
         "NetworkBorderGroup": "ap-southeast-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Asia Pacific (Sydney) 1",
+        "Geography": [
+            {
+                "Name": "Australia"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-central-1",
         "ZoneName": "eu-central-1a",
         "ZoneId": "euc1-az2",
-        "GroupName": "eu-central-1",
+        "GroupName": "eu-central-1-zg-1",
         "NetworkBorderGroup": "eu-central-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Frankfurt) 1",
+        "Geography": [
+            {
+                "Name": "Germany"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-central-1",
         "ZoneName": "eu-central-1b",
         "ZoneId": "euc1-az3",
-        "GroupName": "eu-central-1",
+        "GroupName": "eu-central-1-zg-1",
         "NetworkBorderGroup": "eu-central-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Frankfurt) 1",
+        "Geography": [
+            {
+                "Name": "Germany"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "eu-central-1",
         "ZoneName": "eu-central-1c",
         "ZoneId": "euc1-az1",
-        "GroupName": "eu-central-1",
+        "GroupName": "eu-central-1-zg-1",
         "NetworkBorderGroup": "eu-central-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "Europe (Frankfurt) 1",
+        "Geography": [
+            {
+                "Name": "Germany"
+            }
+        ],
+        "SubGeography": [],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-east-1",
         "ZoneName": "us-east-1a",
         "ZoneId": "use1-az6",
-        "GroupName": "us-east-1",
+        "GroupName": "us-east-1-zg-1",
         "NetworkBorderGroup": "us-east-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US East (N. Virginia) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Virginia"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-east-1",
         "ZoneName": "us-east-1b",
         "ZoneId": "use1-az1",
-        "GroupName": "us-east-1",
+        "GroupName": "us-east-1-zg-1",
         "NetworkBorderGroup": "us-east-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US East (N. Virginia) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Virginia"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-east-1",
         "ZoneName": "us-east-1c",
         "ZoneId": "use1-az2",
-        "GroupName": "us-east-1",
+        "GroupName": "us-east-1-zg-1",
         "NetworkBorderGroup": "us-east-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US East (N. Virginia) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Virginia"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-east-1",
         "ZoneName": "us-east-1d",
         "ZoneId": "use1-az4",
-        "GroupName": "us-east-1",
+        "GroupName": "us-east-1-zg-1",
         "NetworkBorderGroup": "us-east-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US East (N. Virginia) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Virginia"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-east-1",
         "ZoneName": "us-east-1e",
         "ZoneId": "use1-az3",
-        "GroupName": "us-east-1",
+        "GroupName": "us-east-1-zg-1",
         "NetworkBorderGroup": "us-east-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US East (N. Virginia) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Virginia"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-east-1",
         "ZoneName": "us-east-1f",
         "ZoneId": "use1-az5",
-        "GroupName": "us-east-1",
+        "GroupName": "us-east-1-zg-1",
         "NetworkBorderGroup": "us-east-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US East (N. Virginia) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Virginia"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-east-2",
         "ZoneName": "us-east-2a",
         "ZoneId": "use2-az1",
-        "GroupName": "us-east-2",
+        "GroupName": "us-east-2-zg-1",
         "NetworkBorderGroup": "us-east-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US East (Ohio) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Ohio"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-east-2",
         "ZoneName": "us-east-2b",
         "ZoneId": "use2-az2",
-        "GroupName": "us-east-2",
+        "GroupName": "us-east-2-zg-1",
         "NetworkBorderGroup": "us-east-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US East (Ohio) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Ohio"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-east-2",
         "ZoneName": "us-east-2c",
         "ZoneId": "use2-az3",
-        "GroupName": "us-east-2",
+        "GroupName": "us-east-2-zg-1",
         "NetworkBorderGroup": "us-east-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US East (Ohio) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Ohio"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-west-1",
         "ZoneName": "us-west-1a",
         "ZoneId": "usw1-az3",
-        "GroupName": "us-west-1",
+        "GroupName": "us-west-1-zg-1",
         "NetworkBorderGroup": "us-west-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US West (N. California) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "California"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-west-1",
         "ZoneName": "us-west-1b",
         "ZoneId": "usw1-az1",
-        "GroupName": "us-west-1",
+        "GroupName": "us-west-1-zg-1",
         "NetworkBorderGroup": "us-west-1",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US West (N. California) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "California"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-west-2",
         "ZoneName": "us-west-2a",
         "ZoneId": "usw2-az1",
-        "GroupName": "us-west-2",
+        "GroupName": "us-west-2-zg-1",
         "NetworkBorderGroup": "us-west-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US West (Oregon) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Oregon"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-west-2",
         "ZoneName": "us-west-2b",
         "ZoneId": "usw2-az2",
-        "GroupName": "us-west-2",
+        "GroupName": "us-west-2-zg-1",
         "NetworkBorderGroup": "us-west-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US West (Oregon) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Oregon"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-west-2",
         "ZoneName": "us-west-2c",
         "ZoneId": "usw2-az3",
-        "GroupName": "us-west-2",
+        "GroupName": "us-west-2-zg-1",
         "NetworkBorderGroup": "us-west-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US West (Oregon) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Oregon"
+            }
+        ],
+        "State": "available"
     },
     {
-        "State": "available",
         "OptInStatus": "opt-in-not-required",
         "Messages": [],
         "RegionName": "us-west-2",
         "ZoneName": "us-west-2d",
         "ZoneId": "usw2-az4",
-        "GroupName": "us-west-2",
+        "GroupName": "us-west-2-zg-1",
         "NetworkBorderGroup": "us-west-2",
-        "ZoneType": "availability-zone"
+        "ZoneType": "availability-zone",
+        "GroupLongName": "US West (Oregon) 1",
+        "Geography": [
+            {
+                "Name": "United States of America"
+            }
+        ],
+        "SubGeography": [
+            {
+                "Name": "Oregon"
+            }
+        ],
+        "State": "available"
     }
 ]

@@ -94,7 +94,7 @@ class CloudAvailabilityZone(models.Model):
 
     @property
     def short_name(self):
-        return f"{self.region.short_name}z{self.az}"
+        return f"{self.region.short_name}{self.az}"
 
     @property
     def short_name_with_provider(self):

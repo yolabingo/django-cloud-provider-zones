@@ -2,20 +2,14 @@
     {
         "geographic_region": "eu",
         "cardinality": "west",
-        "number": "3",
-        "original_region_name": "eu-west-3"
+        "number": "2",
+        "original_region_name": "eu-west-2"
     },
     {
         "geographic_region": "ap",
-        "cardinality": "south",
+        "cardinality": "northeast",
         "number": "1",
-        "original_region_name": "ap-south-1"
-    },
-    {
-        "geographic_region": "us",
-        "cardinality": "east",
-        "number": "1",
-        "original_region_name": "us-east-1"
+        "original_region_name": "ap-northeast-1"
     },
     {
         "geographic_region": "us",
@@ -24,22 +18,40 @@
         "original_region_name": "us-west-2"
     },
     {
+        "geographic_region": "us",
+        "cardinality": "west",
+        "number": "1",
+        "original_region_name": "us-west-1"
+    },
+    {
+        "geographic_region": "ap",
+        "cardinality": "south",
+        "number": "1",
+        "original_region_name": "ap-south-1"
+    },
+    {
+        "geographic_region": "ap",
+        "cardinality": "southeast",
+        "number": "1",
+        "original_region_name": "ap-southeast-1"
+    },
+    {
         "geographic_region": "ap",
         "cardinality": "northeast",
         "number": "3",
         "original_region_name": "ap-northeast-3"
     },
     {
-        "geographic_region": "eu",
-        "cardinality": "north",
-        "number": "1",
-        "original_region_name": "eu-north-1"
+        "geographic_region": "ap",
+        "cardinality": "northeast",
+        "number": "2",
+        "original_region_name": "ap-northeast-2"
     },
     {
-        "geographic_region": "eu",
-        "cardinality": "west",
-        "number": "1",
-        "original_region_name": "eu-west-1"
+        "geographic_region": "us",
+        "cardinality": "east",
+        "number": "2",
+        "original_region_name": "us-east-2"
     },
     {
         "geographic_region": "sa",
@@ -56,49 +68,37 @@
     {
         "geographic_region": "eu",
         "cardinality": "west",
-        "number": "2",
-        "original_region_name": "eu-west-2"
-    },
-    {
-        "geographic_region": "ap",
-        "cardinality": "southeast",
-        "number": "1",
-        "original_region_name": "ap-southeast-1"
+        "number": "3",
+        "original_region_name": "eu-west-3"
     },
     {
         "geographic_region": "eu",
-        "cardinality": "central",
+        "cardinality": "north",
         "number": "1",
-        "original_region_name": "eu-central-1"
+        "original_region_name": "eu-north-1"
     },
     {
-        "geographic_region": "ap",
-        "cardinality": "northeast",
-        "number": "2",
-        "original_region_name": "ap-northeast-2"
-    },
-    {
-        "geographic_region": "us",
-        "cardinality": "east",
-        "number": "2",
-        "original_region_name": "us-east-2"
-    },
-    {
-        "geographic_region": "us",
+        "geographic_region": "eu",
         "cardinality": "west",
         "number": "1",
-        "original_region_name": "us-west-1"
-    },
-    {
-        "geographic_region": "ap",
-        "cardinality": "northeast",
-        "number": "1",
-        "original_region_name": "ap-northeast-1"
+        "original_region_name": "eu-west-1"
     },
     {
         "geographic_region": "ca",
         "cardinality": "central",
         "number": "1",
         "original_region_name": "ca-central-1"
+    },
+    {
+        "geographic_region": "us",
+        "cardinality": "east",
+        "number": "1",
+        "original_region_name": "us-east-1"
+    },
+    {
+        "geographic_region": "eu",
+        "cardinality": "central",
+        "number": "1",
+        "original_region_name": "eu-central-1"
     }
 ]
