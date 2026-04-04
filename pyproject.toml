@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-cloud-provider-zones"
-version = "0.1.13"
+version = "0.1.14"
 description = "Django app providing a static list of cloud provider regions and AZs"
 authors = ["TJ <yolabingo@gmail.com>"]
 readme = "README.md"
@@ -11,8 +11,8 @@ keywords = ["django", "cloud", "provider", "regions", "aws", "gcp"]
 
 [tool.poetry.dependencies]
 python = ">=3.12"
-django = "^6.0.2"
-djangorestframework = "^3.16.1"
+django = ">=6.0"
+djangorestframework = ">=3.0"
 
 
 [tool.poetry.group.dev.dependencies]
